@@ -6,17 +6,17 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Nulla elit eros, dignissim id pretium eu, eleifend eget arcu.'
-datePublished: '2015-10-19T17:22:50.718Z'
-dateModified: '2015-10-19T17:22:37.884Z'
+datePublished: '2015-10-19T18:24:59.973Z'
+dateModified: '2015-10-19T18:24:57.223Z'
 title: Winter is coming
+sourcePath: _posts/2015-10-19-winter-is-coming.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-19-winter-is-coming.md
-published: true
 url: winter-is-coming/index.html
 _type: Article
 
