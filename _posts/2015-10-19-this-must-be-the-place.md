@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/135199824'
+inLanguage: en
+starred: false
+keywords:
+  - vimeo
+  - singintomymouth
+  - desilets
+  - bridwell
+  - hmm
+  - reservoir
+  - naive
+  - paddle
+  - witty
+  - melody
+description: 'A self supported Stand Up Paddle camping weekend at Round Valley Reservoir in Lebanon, New Jersey. Iron & Wine and Ben Bridwell - This Must Be The Place (Naive Melody) More info: bit.ly/singintomymouth'
+datePublished: '2015-10-19T18:56:42.530Z'
+dateModified: '2015-10-19T18:56:39.061Z'
 author:
   - name: Marty Desilets
     url: 'http://vimeo.com/martyfm'
@@ -20,38 +40,20 @@ author:
           - 51
           - 54
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords:
-  - vimeo
-  - singintomymouth
-  - desilets
-  - bridwell
-  - hmm
-  - reservoir
-  - naive
-  - paddle
-  - witty
-  - melody
-description: 'A self supported Stand Up Paddle camping weekend at Round Valley Reservoir in Lebanon, New Jersey. Iron & Wine and Ben Bridwell - This Must Be The Place (Naive Melody) More info: bit.ly/singintomymouth'
-inLanguage: en
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/135199824'
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-isBasedOnUrl: 'https://vimeo.com/135199824'
 title: This must be the place.
-datePublished: '2015-10-19T18:39:07.370Z'
-dateModified: '2015-10-19T18:38:19.057Z'
 sourcePath: _posts/2015-10-19-this-must-be-the-place.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
