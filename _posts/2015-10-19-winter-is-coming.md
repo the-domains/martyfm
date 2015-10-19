@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Nulla elit eros, dignissim id pretium eu, eleifend eget arcu.'
-datePublished: '2015-10-19T18:24:59.973Z'
-dateModified: '2015-10-19T18:24:57.223Z'
+datePublished: '2015-10-19T18:26:04.459Z'
+dateModified: '2015-10-19T18:26:01.695Z'
 title: Winter is coming
 sourcePath: _posts/2015-10-19-winter-is-coming.md
 published: true
